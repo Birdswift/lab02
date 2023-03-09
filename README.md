@@ -129,7 +129,7 @@ git push origin patch1
 
 Удалил patch 1 git push origin --delete patch1 
 
-10)Запушил в main git push origin main
+10)Сделал git pull локально
 
 11)Посмотрел историю  git log
 
